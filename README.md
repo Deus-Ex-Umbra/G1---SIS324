@@ -1,1 +1,4 @@
 Grupo N°1 - SIS324
+Datos:
+1. Aparicio Llanquipacha Gabriel. Ingeniería en Ciencias de la Computación.
+2. 
