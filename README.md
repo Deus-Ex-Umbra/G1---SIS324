@@ -3,3 +3,4 @@ Datos:
 1. Aparicio Llanquipacha Gabriel. Ingeniería en Ciencias de la Computación.
 2. Rúa Echalar Juan Manuel. Ingeniería en Ciencias de la Computación.
 3. Piza Nava Vladimir. Ingeniería en Ciencias de la Computación.
+4. Limachi Villarroel Alan Nicolas. Ingeniería en Ciencias de la Computación.
